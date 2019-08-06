@@ -1,0 +1,47 @@
+/* Header */
+.header{
+    background-color: #707070;
+    height: 250,
+}
+
+.headerDesc{
+    text-align: center;
+    overflow: hidden;
+    padding: 20px 10px;
+}
+.btnContent{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+/* Send */
+.text{
+    text-align: center;
+}
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between
+}
+
+/* Footer */
+.footerContent{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    background-color: #707070;
+    height: 200;
+}
+
+.footer{
+    margin-top: 20;
+    text-align: center;
+    overflow: hidden;
+}
