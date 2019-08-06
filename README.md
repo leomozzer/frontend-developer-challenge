@@ -2,7 +2,7 @@ This project was created like a challenge for futures frontend developers to Lin
 
 ### Description
 
-I used React Hooks, axios, Material-UI to create this project
+I used React Hooks, Axios and Material-UI to create this project
 
 ### View Project
 [Live Demo](https://ps-linx-leonardo.herokuapp.com).
